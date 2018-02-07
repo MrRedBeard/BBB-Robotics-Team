@@ -1,2 +1,5 @@
 # BBB-Robotics-Team
-AR Hub Robotics Team Collab
+AR Hub After School Robotics Team 
+
+
+Team Name: Divided by Zero
